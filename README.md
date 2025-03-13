@@ -56,8 +56,12 @@ The dataset used in this project is **data.csv**, which contains biomechanical a
 - Feature importance analysis showed **feature_name** (replace) as the most significant predictor.
 
 ## Contributors
-- [Your Name]
-- Group Members (if applicable)
+- #### Group Members:
+  - @b-austin
+  - @charlieuns
+  - @charlieuns
+  - @piyushsinghoffice
+  - @sarahsorous
 
 ## Submission Details
 - **Course**: Statistics and Machine Learning 2
