@@ -59,7 +59,7 @@ The dataset used in this project is **data.csv**, which contains biomechanical a
 - #### Group Members:
   - @b-austin
   - @charlieuns
-  - @charlieuns
+  - @Jahanvi2013
   - @piyushsinghoffice
   - @sarahsorous
 
