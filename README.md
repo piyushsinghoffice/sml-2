@@ -66,6 +66,3 @@ The dataset used in this project is **data.csv**, which contains biomechanical a
 
 ## License
 This project is for academic purposes as part of the coursework for the **University of Manchester**.
-
----
-For any queries, please contact [your email].
